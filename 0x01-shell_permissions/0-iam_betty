@@ -1,2 +1,15 @@
 #!/bin/bash
-su betty
+0-superuser-su betty
+1-Print_username_of_current_user
+2-Print_user_group
+3-changer_hello_ownership
+4-create_empltyfile
+5-give_execution_permission
+6-Give_multiple_permissions
+7-Give_permission_to_allusr_for_hello
+8-Set_conditions_for_file_permissions
+9-reset_permission_mode
+10-set_similar_modes
+11-addd_permission_to_all_subdir_for_all
+12-create_script_directory_with_permissions_751
+13-chgrp_owner_from_hello_to_school
